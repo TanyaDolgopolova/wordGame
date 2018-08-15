@@ -1,0 +1,6 @@
+﻿  FirstInteraction.cpp
+  main.cpp
+  Play.cpp
+  Generating Code...
+d:\c++\курсовая работа\wordgame4\wordgame4\firstinteraction.cpp(69): warning C4715: 'First_Interaction::ChooseTheme': not all control paths return a value
+  WordGame4.vcxproj -> D:\c++\Курсовая работа\WordGame4\Debug\WordGame4.exe
